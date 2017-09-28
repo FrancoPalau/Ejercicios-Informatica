@@ -15,3 +15,4 @@ int main(void){
 } else
     printf("%s\n","El numero que dio no esta dentro de los numeros ordenados" );
 }
+//ejemplo de modificacion
